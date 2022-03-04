@@ -22,7 +22,13 @@
                 <RowDefinition/>
             </Grid.RowDefinitions>
 
-            
+            <!--Logo-->
+            <TextBlock Text="xxxx"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Left"
+                       Foreground="White"
+                       FontSize="22"
+                       Margin="20,0,0,0"/>
             
         </Grid>
 
